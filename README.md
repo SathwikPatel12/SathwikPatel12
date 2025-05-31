@@ -1,4 +1,4 @@
-<h3 align="left">Connect with me</h3>
+<h3 align="left">🔗 Connect with me</h3>
 <p align="left">
   <a href="https://x.com/YalagalaSathwik" target="_blank">
     <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
