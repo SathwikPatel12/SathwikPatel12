@@ -1,19 +1,12 @@
-<!-- Font Awesome CDN -->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
-
-<h3>Connect with me</h3>
-<p style="display: flex; gap: 15px; align-items: center;">
-
-  <a href="https://x.com/YalagalaSathwik" target="_blank" style="text-decoration: none; color: #1DA1F2;">
-    <i class="fab fa-x-twitter fa-2x"></i>
+<h3 align="left">Connect with me</h3>
+<p align="left">
+  <a href="https://x.com/YalagalaSathwik" target="_blank">
+    <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
   </a>
-
-  <a href="https://www.linkedin.com/in/sathwik-yalagala" target="_blank" style="text-decoration: none; color: #0077B5;">
-    <i class="fab fa-linkedin fa-2x"></i>
+  <a href="https://www.linkedin.com/in/sathwik-yalagala" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-
-  <a href="https://www.instagram.com/sathwik3538/" target="_blank" style="text-decoration: none; color: #E4405F;">
-    <i class="fab fa-instagram fa-2x"></i>
+  <a href="https://www.instagram.com/sathwik3538/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-
 </p>
