@@ -2,17 +2,11 @@
 
 Welcome to my GitHub profile! I'm a passionate Data Science Learner who loves learning new things everyday.
 
+## 🔍 About Me
+
 🎓 I'm a recent B.Tech graduate with a strong curiosity for Data Science and Artificial Intelligence. Currently, I'm upskilling through a comprehensive Data Science course, where I'm diving deep into real-world applications of AI, Machine Learning, Deep Learning, Image Processing, and NLP.
 
 💡 I am passionate about AI & ML, and I'm constantly exploring how machines can learn and make sense of complex data to solve meaningful problems.
-
-## 🔍 About Me
-
-- 🎓 Currently [your status: student at XYZ / working as ABC]
-- 🧠 Interested in [interests: AI, web development, open source, etc.]
-- 🎯 Career goal: [your goals: become a full-stack developer, contribute to open-source, etc.]
-- 🌱 Currently learning: [what you’re learning now]
-- 💬 Ask me about: [topics you're comfortable discussing or mentoring about]
 
 ## 🛠️ Skills & Tools
 
