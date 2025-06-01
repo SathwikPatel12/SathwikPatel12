@@ -65,4 +65,10 @@ Welcome to my GitHub profile! I'm a passionate Data Science Learner who loves le
 
 Apart from exploring Machine Learning and AI, I enjoy listening to tech podcasts and staying updated on the latest innovations in technology — especially in **automobiles, electronic gadgets, and future tech trends**.
 
+<!--This is a comment and will not appear in the rendered README
+🧠 Featured Projects Section
+Once you finish 2–3 good personal projects, add a section like:
+## 🚀 Featured Projects
 
+- 📌 [Movie Recommender using Cosine Similarity](https://github.com/SathwikPatel12/movie-recommender)
+- 📊 [IPL Data Analysis with Pandas](https://github.com/SathwikPatel12/ipl-analysis)-->
