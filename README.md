@@ -52,7 +52,6 @@ Welcome to my GitHub profile! I'm a passionate Data Science Learner who loves le
 - 🔍 Learning about **Recommendation Systems**
 - 🧪 Working on a personal project using **Kaggle datasets** to build a recommender engine.
 
-
 ## 🌐 Connect With Me
 
 <p align="left">
@@ -65,8 +64,11 @@ Welcome to my GitHub profile! I'm a passionate Data Science Learner who loves le
 
 ## 📈 GitHub Stats
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&hide_title=true&count_private=true&theme=tokyonight)
+![Sathwik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SathwikPatel12&show_icons=true&theme=tokyonight&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SathwikPatel12&layout=compact&theme=tokyonight)
 
 ## ⚡ Fun Fact
 
-Did you know? [Insert something fun or quirky about yourself!]
+Apart from exploring Machine Learning and AI, I enjoy listening to tech podcasts and staying updated on the latest innovations in technology — especially in **automobiles, electronic gadgets, and future tech trends**.
+
+
