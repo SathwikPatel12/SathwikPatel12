@@ -1,4 +1,8 @@
-# 👋 Hi there! I'm Sathwik
+<h1 align="center">👋 Hi there! I'm Sathwik Patel</h1>
+<h2 align = "center"> A Data Science enthusiast from SNIST </h2>
+<img alt = "coding image" align = "right" width = "300" src = "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+<!--# 👋 Hi there! I'm Sathwik-->
 
 🎓 **Graduate | Aspiring Data Scientist**
 
@@ -18,6 +22,7 @@ My toolkit includes a blend of programming, statistical, and visualization skill
 
 ### 👨‍💻 Languages
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
 <!-- Add or remove badges as per your skills -->
 
 ### 📊 Data Analysis | Exploratory Data Analysis (EDA) & Visualization
@@ -33,7 +38,7 @@ My toolkit includes a blend of programming, statistical, and visualization skill
 ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras)
 
 ### 🛠️ Other Tools
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer">
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit)
 
@@ -83,6 +88,8 @@ My toolkit includes a blend of programming, statistical, and visualization skill
 <a href="https://www.instagram.com/sathwik3538/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sathwik3538" height="40" width="40" /></a>
 </p>
 
+- 📫 How to reach me: Mail me at **sathwikyalagala@gmail.com**
+
 ---
 
 > “Turning data into actionable insights, one project at a time.”
@@ -105,4 +112,8 @@ Once you finish 2–3 good personal projects, add a section like:
 
 - 📌 [Movie Recommender using Cosine Similarity](https://github.com/SathwikPatel12/movie-recommender)
 - 📊 [IPL Data Analysis with Pandas](https://github.com/SathwikPatel12/ipl-analysis)-->
+
+
+
+
 
