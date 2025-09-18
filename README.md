@@ -106,10 +106,9 @@ My toolkit includes a blend of programming, statistical, and visualization skill
 
 ## 📈 GitHub Stats
 
-<!--![Sathwik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SathwikPatel12&show_icons=true&theme=tokyonight)-->
+![Sathwik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SathwikPatel12&show_icons=true&theme=tokyonight)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SathwikPatel12&show_icons=true&theme=tokyonight&count_private=true&hide=issues,contribs&custom_title=My%20GitHub%20Stats)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SathwikPatel12&layout=compact&theme=tokyonight)
 
 
