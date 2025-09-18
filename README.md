@@ -116,6 +116,7 @@ My toolkit includes a blend of programming, statistical, and visualization skill
 <!--END_SECTION:projects-->
 
 
+
 ## ⚡ Fun Fact
 
 Apart from exploring Machine Learning and AI, I enjoy listening to tech podcasts and staying updated on the latest innovations in technology — especially in **automobiles, electronic gadgets, and future tech trends**.
