@@ -107,6 +107,55 @@ My toolkit includes a blend of programming, statistical, and visualization skill
 ## 📈 GitHub Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-72-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 202 Contributions in the Year 2025
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 5 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                43 commits          █████░░░░░░░░░░░░░░░░░░░░   21.94 % 
+🌆 Daytime                110 commits         ██████████████░░░░░░░░░░░   56.12 % 
+🌃 Evening                43 commits          █████░░░░░░░░░░░░░░░░░░░░   21.94 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/SathwikPatel12/SathwikPatel12/main/assets/bar_graph.png)
+
+
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:commits-->
