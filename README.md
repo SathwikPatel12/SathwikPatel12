@@ -108,14 +108,9 @@ My toolkit includes a blend of programming, statistical, and visualization skill
 
 <!--![Sathwik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SathwikPatel12&show_icons=true&theme=tokyonight)-->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?
-username=SathwikPatel12&show_icons=true&theme=tokyonight&hide=issues&count_private=true&token=${{ secrets.GH_TOKEN }},contribs&custom_title=My%20GitHub%20Stats)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SathwikPatel12&show_icons=true&theme=tokyonight&count_private=true&hide=issues,contribs&custom_title=My%20GitHub%20Stats)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SathwikPatel12&layout=compact&theme=tokyonight)
-<!--
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SathwikPatel12&show_icons=true&theme=tokyonight&hide=issues,contribs&custom_title=My%20GitHub%20Stats)-->
-
 
 
 ## ⚡ Fun Fact
