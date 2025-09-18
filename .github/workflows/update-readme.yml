@@ -2,28 +2,33 @@ name: Update README
 
 on:
   schedule:
-    - cron: "0 */6 * * *"  # Every 6 hours
-  workflow_dispatch:       # Manual trigger
+    - cron: "0 */6 * * *"  # Runs every 6 hours
+  workflow_dispatch:
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
 
-      - name: Generate GitHub Stats and Update README
+      - name: Update GitHub Stats Only (No WakaTime)
         uses: anmol098/waka-readme-stats@master
         with:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          SHOW_LOC_CHART: "True"
+          SHOW_PROFILE_VIEWS: "True"
+          SHOW_COMMIT: "True"
           SHOW_PROJECTS: "True"
           SHOW_LANGUAGE: "True"
           SHOW_OS: "False"
           SHOW_EDITORS: "False"
-          SHOW_PROFILE_VIEWS: "True"
-          SHOW_COMMIT: "True"
-          SHOW_LOC_CHART: "True"
           SHOW_TIMEZONE: "False"
           SHOW_UPDATED_DATE: "False"
           SHOW_TOTAL_CODE_TIME: "False"
           SHOW_SHORT_INFO: "False"
+          SHOW_LINES_OF_CODE: "False"
+          SHOW_LANGUAGE_PER_REPO: "False"
+          SHOW_DAYS_OF_WEEK: "False"
+          COMMIT_BY_ME: "False"
